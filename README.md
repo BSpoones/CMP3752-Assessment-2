@@ -3,12 +3,6 @@
 # CMP3752M — Parallel Programming  
 Complete Lecture Notes (raw Markdown, detailed)
 
-> Blunt, no-nonsense slide‑for‑slide dumps. Every heading, formula, code
-> snippet, diagram caption and reading suggestion that appeared in the
-> PDFs is reproduced or described. If anything still feels thin, check
-> the original slides — I didn’t delete info, but slides sometimes *are*
-> terse.
-
 ---
 
 ## Lecture 1 – Data‑Parallel Programming (C. Fox)
